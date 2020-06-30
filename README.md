@@ -1,5 +1,5 @@
 # ProjektPZMSI
-Sebastian Śliwa, Agnieszka Rutkowska, Igor Szylak, Alona Skiba
+Sebastian Śliwa, Agnieszka Rutkowska, Igor Szylak, Alona Skyba
 
 # Opis TensorFlow i Keras
 TensorFlow jest platformą przeznaczoną do tworzenia i uczenia sieci neuronowych. Został stworzony z myślą o prostym wykorzystaniu w praktyce, posiada wbudowane API Keras, dzięki któremu użytkownik ma ułatwiony dostęp do funkcjonalności TensorFlow. 
